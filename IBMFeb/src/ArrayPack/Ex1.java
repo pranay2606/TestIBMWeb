@@ -4,7 +4,7 @@ public class Ex1 {
 	public static void main(String[] args) {
 		int i[] = {1,5,3,7,6};
 		int x[] = new int[5];
-		x[0]=100;
+		x[0]=120;
 		x[1]=120;
 		x[2]=400;
 		String s1[] = new String[3];
